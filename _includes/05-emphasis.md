@@ -1,2 +1,2 @@
-*This is in Bold, correct?*
-_This is in Italic, correct_
+**This is in Bold, correct?**
+__This is in Italic, correct__
